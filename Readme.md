@@ -16,8 +16,8 @@ alphabeta.py
 # Alpha-Beta Pruning algorithm implementation 
 board.py 
 # Board representation and game logic 
-config.py # 
-Configuration for colors, dimensions, etc. 
+config.py 
+# Configuration for colors, dimensions, etc. 
 main.py 
 # Main game loop and UI logic 
 minimax.py 
