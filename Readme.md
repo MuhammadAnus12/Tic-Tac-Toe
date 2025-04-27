@@ -33,8 +33,8 @@ minimax.py
    pip install pygame
 
 3. Run the game:
-
-python main.py
+   ```bash
+   python main.py
 
 Controls
 T: Toggle between Minimax and Alpha-Beta Pruning algorithms.
