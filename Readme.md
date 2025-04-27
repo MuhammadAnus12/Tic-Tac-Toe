@@ -43,14 +43,14 @@ Mouse Click: Make a move by clicking on an empty cell.
 
 
 How It Works
- The game board is represented as a 3x3 grid.
-The human player uses the "O" symbol, and the AI uses the "X" symbol.
-The AI calculates the best move using either the Minimax or Alpha-Beta Pruning algorithm, depending on the selected mode.
+- The game board is represented as a 3x3 grid.
+- The human player uses the "O" symbol, and the AI uses the "X" symbol.
+- The AI calculates the best move using either the Minimax or Alpha-Beta Pruning algorithm, depending on the selected mode.
 
 Algorithms
-Minimax
+- Minimax
 Explores all possible moves to determine the optimal move.
 Guarantees the best outcome for the AI but can be slow for larger boards.
-Alpha-Beta Pruning
+- Alpha-Beta Pruning
 An optimized version of Minimax that eliminates branches that do not need to be explored.
 Significantly faster than Minimax for the same board size.
